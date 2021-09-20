@@ -127,3 +127,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.vscode
+.ipynb_checkpoints
+__pycache__
+.idea
+inputs/CT_rocks_dataset/*
